@@ -1,4 +1,4 @@
-package com.example.flutter_boilerplate
+package com.example.maleda_hospital
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

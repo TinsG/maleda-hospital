@@ -1,4 +1,4 @@
-# flutter_boilerplate
+# maleda_hospital
 
 A new Flutter project. This is a scable directory structrue for Flutter projects.
 

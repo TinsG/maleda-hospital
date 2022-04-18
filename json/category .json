@@ -1,0 +1,98 @@
+[
+    {
+        "category": "ካርድ ክፍል",
+        "code": "CRDR",
+        "lists": [
+            {
+                "sn": 1,
+                "listAm": "ሰላምታ (ደህና ኖት)",
+                "listEn": "Greetings(How are you?)",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 2,
+                "listAm": "ምን እንርዳዎት",
+                "listEn": "What can we do for you?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 3,
+                "listAm": "አሞኝ ነው",
+                "listEn": "It's sick",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 4,
+                "listAm": "የደም ዓይነቴን ለማወቅ ነው",
+                "listEn": "To find out my blood type",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 5,
+                "listAm": "መታየት ፈልጌ ነው",
+                "listEn": "I want to be seen",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 6,
+                "listAm": "ቀጠሮ አለኝ ",
+                "listEn": "I have an appointment",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 7,
+                "listAm": "ከዚህ በፊት ካርድ አውጥተው ነበር",
+                "listEn": "Have you issued a card before?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 8,
+                "listAm": "ስሞት ማን ነው",
+                "listEn": "what your name?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 9,
+                "listAm": "እድሜዎት ስንት ነው",
+                "listEn": "How old are you?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 10,
+                "listAm": "ስልክ ቁጥሮን ይንገሩኝ",
+                "listEn": "Tell me your phone number",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 11,
+                "listAm": "ክፍለ ከተማዎን  እና ወረዳዎን ይንገሩኝ ",
+                "listEn": "Tell me your city and district",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 12,
+                "listAm": "ምኖትን ነው ያመሞት ",
+                "listEn": "What is your illness?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 13,
+                "listAm": "ብር ይክፈሉ ",
+                "listEn": "pay the bill",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 14,
+                "listAm": "እንግዳ ማረፊያው ላይ ይቀመጡ ",
+                "listEn": "Sit in the guest room",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            },
+            {
+                "sn": 15,
+                "listAm": "ሲጠሩ ይመጣሉ",
+                "listEn": "you will come whenyou are called",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif"
+            }
+        ]
+    }
+]

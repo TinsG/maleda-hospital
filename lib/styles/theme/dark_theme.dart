@@ -1,7 +1,7 @@
 part of 'themes.dart';
 
 // ignore: unused_element
-class _DarkTheme {
+ class _DarkTheme {
   // ignore: unused_field
   static ThemeData darkThemeData = ThemeData(
     brightness: Brightness.dark,
@@ -18,13 +18,14 @@ class _DarkTheme {
       secondary: AppColors.buttonColor,
     ),
     toggleableActiveColor: AppColors.buttonColor,
-    appBarTheme: AppBarTheme(color: AppColors.white),
-    scaffoldBackgroundColor: AppColors.white,
+    appBarTheme: AppBarTheme(color: AppColors.darkBlack),
+    scaffoldBackgroundColor: AppColors.darkBlack,
     errorColor: AppColors.textError,
     focusColor: AppColors.inputActive,
     hoverColor: AppColors.inputDefault,
     disabledColor: AppColors.inputDisable,
     primaryColorLight: AppColors.inputDefault,
-    backgroundColor: AppColors.white,
+    backgroundColor: AppColors.darkBlack,
+    primaryColorDark: AppColors.darkBlack,
   );
 }

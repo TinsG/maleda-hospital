@@ -1,15 +1,14 @@
-import 'dart:io';
+import 'package:maleda_hospital/modules/splash-screen/splash-screen.dart';
+import 'package:maleda_hospital/shared/helpers/app_environment.dart';
+import 'package:maleda_hospital/styles/theme/themes.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
 // Custom imports
-import 'package:flutter_boilerplate/modules/auth/auth_screen.dart';
-import 'package:flutter_boilerplate/routes.dart';
-import 'package:flutter_boilerplate/shared/providers/name_notifier.dart';
-import 'package:flutter_boilerplate/shared/services/http_service.dart';
-import 'package:flutter_boilerplate/styles/index.dart';
+import 'package:maleda_hospital/routes.dart';
+import 'package:maleda_hospital/shared/providers/name_notifier.dart';
 
 void main() {
-  HttpOverrides.global = new MyHttpOverrides();
+  // HttpOverrides.global = new MyHttpOverrides();
   return runApp(MyApp());
 }
 
@@ -25,9 +24,11 @@ class MyApp extends StatelessWidget {
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
           title: 'Flutter Demo',
-          theme: themeData,
+          theme: ThemeData(),
+          darkTheme: Themes().themeData(), // standard dark theme
+          themeMode: ThemeMode.system, 
           routes: Routes.routes,
-          home: AuthScreen(),
+          home: SplashScreen(),
         ));
   }
 }

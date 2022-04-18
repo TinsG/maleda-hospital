@@ -1,0 +1,524 @@
+[
+    {
+        "category": "ካርድ ክፍል",
+        "code": "CRDR",
+        "lists": [
+            {
+                "sn": 1,
+                "listAm": "ሰላምታ (ደህና ኖት)",
+                "listEn": "Greetings(How are you?)",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 2,
+                "listAm": "ምን እንርዳዎት",
+                "listEn": "What can we do for you?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 3,
+                "listAm": "አሞኝ ነው",
+                "listEn": "It's sick",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 4,
+                "listAm": "የደም ዓይነቴን ለማወቅ ነው",
+                "listEn": "To find out my blood type",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 5,
+                "listAm": "መታየት ፈልጌ ነው",
+                "listEn": "I want to be seen",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 6,
+                "listAm": "ቀጠሮ አለኝ ",
+                "listEn": "I have an appointment",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 7,
+                "listAm": "ከዚህ በፊት ካርድ አውጥተው ነበር",
+                "listEn": "Have you issued a card before?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 8,
+                "listAm": "ስሞት ማን ነው",
+                "listEn": "what your name?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 9,
+                "listAm": "እድሜዎት ስንት ነው",
+                "listEn": "How old are you?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 10,
+                "listAm": "ስልክ ቁጥሮን ይንገሩኝ",
+                "listEn": "Tell me your phone number",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 11,
+                "listAm": "ክፍለ ከተማዎን  እና ወረዳዎን ይንገሩኝ ",
+                "listEn": "Tell me your city and district",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 12,
+                "listAm": "ምኖትን ነው ያመሞት ",
+                "listEn": "What is your illness?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 13,
+                "listAm": "ብር ይክፈሉ ",
+                "listEn": "pay the bill",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 14,
+                "listAm": "እንግዳ ማረፊያው ላይ ይቀመጡ ",
+                "listEn": "Sit in the guest room",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 15,
+                "listAm": "ሲጠሩ ይመጣሉ",
+                "listEn": "you will come whenyou are called",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            }
+        ]
+    },
+    {
+        "category": "የሕክምና ክፍል",
+        "code": "MWR",
+        "lists": [
+            {
+                "sn": 1,
+                "listAm": "ሰላምታ (ደህና ኖት)",
+                "listEn": "Greetings(How are you?)",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": []
+            },
+            {
+                "sn": 2,
+                "listAm": "ምኖትን ነው ያመሞት?",
+                "listEn": "What made you sick?",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": [
+                    {
+                        "sn": 1,
+                        "listAm": "ራሴን ያመኛል/ራስ ምታት",
+                        "listEn": "My head hurts / headache",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "2",
+                        "listAm": "ያተኩሰኛል",
+                        "listEn": "I have a fever",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "3",
+                        "listAm": "ያዞረኛል ",
+                        "listEn": "It turns me on",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "4",
+                        "listAm": "ያስቀምጠኛል ",
+                        "listEn": "I have diarrhea",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "5",
+                        "listAm": "ብርድ ብርድ ይለኛል ",
+                        "listEn": "It makes me cold",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "6",
+                        "listAm": "ሆዴን ይቆርጠኛል ",
+                        "listEn": "It hurts my stomach",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "7",
+                        "listAm": "  ቁርጥማት አለኝ",
+                        "listEn": "I have acne",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "8",
+                        "listAm": " አልፎ አልፎ ያስለኛል ",
+                        "listEn": "I have a cough Occasionally",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "9",
+                        "listAm": "ቶሎ ቶሎ ያስለኛል ",
+                        "listEn": "I have a cough Soon",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    }
+                ]
+            },
+            {
+                "sn": 3,
+                "listAm": "የመተንፈሻ አካላት",
+                "listEn": "Respiratory organs",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": [
+                    {
+                        "sn": 1,
+                        "listAm": "ሳል አሎት ?",
+                        "listEn": "Do you have a cough?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": [
+                            {
+                                "sn": 1,
+                                "listAm": "አዎ",
+                                "listEn": "Yes",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": [
+                                    {
+                                        "sn": "1",
+                                        "listAm": "አክታ አለው?",
+                                        "listEn": "Do you have sputum?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    },
+                                    {
+                                        "sn": "2",
+                                        "listAm": "ደረቅ ሳል ነው ?",
+                                        "listEn": "Is it a dry cough?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    },
+                                    {
+                                        "sn": "3",
+                                        "listAm": "ደም ይቀላቅላል ?",
+                                        "listEn": "Does it  mix blood ?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    },
+                                    {
+                                        "sn": "4",
+                                        "listAm": "ቀላል  ነው? ",
+                                        "listEn": "Is it easy?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    }
+                                ]
+                            },
+                            {
+                                "sn": 2,
+                                "listAm": "አይ",
+                                "listEn": "No",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": []
+                            }
+                        ]
+                    },
+                    {
+                        "sn": 2,
+                        "listAm": "ትኩሳት አሎት?",
+                        "listEn": "Do you have a cough?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": [
+                            {
+                                "sn": 1,
+                                "listAm": "አዎ",
+                                "listEn": "Yes",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": [
+                                    {
+                                        "sn": "1",
+                                        "listAm": "ከባድ ነው ?",
+                                        "listEn": "Is it Hard?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    },
+                                    {
+                                        "sn": "2",
+                                        "listAm": "ቀላል  ነው? ",
+                                        "listEn": "Is It Easy?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    }
+                                ]
+                            },
+                            {
+                                "sn": 2,
+                                "listAm": "አይ",
+                                "listEn": "No",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": []
+                            }
+                        ]
+                    },
+                    {
+                        "sn": 3,
+                        "listAm": "የደረት ህመም አሎት?",
+                        "listEn": "Do you have chest pain?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    }
+                ]
+            },
+            {
+                "sn": 4,
+                "listAm": "ካርዲዮቫስኩላር",
+                "listEn": "Cardiovascular",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": [
+                    {
+                        "sn": "1",
+                        "listAm": "ላብ አሎት ?",
+                        "listEn": "Are you sweating?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "2",
+                        "listAm": "የመተንፈስ ችግር አለቦት?",
+                        "listEn": "Do you have trouble breathing?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "3",
+                        "listAm": " በግራ በኩል ህመም ይሰማዎታል ?",
+                        "listEn": "Do you feel pain in the left side?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "4",
+                        "listAm": "የእግር መንገድ ይከብዶታል ?",
+                        "listEn": "Is walking difficult for you?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "5",
+                        "listAm": "ልቦት በተለየ መልኩ ይመታል?",
+                        "listEn": "Does your heart beat differently?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    }
+                ]
+            },
+            {
+                "sn": 5,
+                "listAm": "የምግብ መፈጨት ሥርዓት",
+                "listEn": "Digestive system",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": [
+                    {
+                        "sn": "1",
+                        "listAm": "ደረቶት  አካባቢ ያቃጥሎታል ?",
+                        "listEn": "Do you have a pain around your chest?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "2",
+                        "listAm": "ያቅለሸልሾታል ?",
+                        "listEn": "Does it make you nauseous?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "3",
+                        "listAm": "ያስታውኮታል?",
+                        "listEn": "Does it bother you?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "4",
+                        "listAm": "ያስቀምጦታል ?",
+                        "listEn": "Do you have diarrhea?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": [
+                            {
+                                "sn": 1,
+                                "listAm": "አዎ",
+                                "listEn": "Yes",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": [
+                                    {
+                                        "sn": "1",
+                                        "listAm": "ውሀ ነው?",
+                                        "listEn": "Is it thin?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    },
+                                    {
+                                        "sn": "2",
+                                        "listAm": "አልፎ አልፎ ነው?",
+                                        "listEn": "Occasionally?",
+                                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                        "lists": []
+                                    }
+                                ]
+                            },
+                            {
+                                "sn": 2,
+                                "listAm": "አይ",
+                                "listEn": "No",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": []
+                            }
+                        ]
+                    },
+                    {
+                        "sn": "5",
+                        "listAm": "ምን በልተው ነው የተነሳቦት?",
+                        "listEn": "What did you eat that made you sick?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "6",
+                        "listAm": "የማይስማማዎት ምግብ አለ?",
+                        "listEn": "Is there a food you don't comfortable with?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    }
+                ]
+            },
+            {
+                "sn": 6,
+                "listAm": "የኩላሊት",
+                "listEn": "Kidney",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": [
+                    {
+                        "sn": "1",
+                        "listAm": "ጎን ጎን ላይ ህመም አሎት ?",
+                        "listEn": "Do you have side pain?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "2",
+                        "listAm": "ሽንቶ ቶሎ ቶሎ ይመጣል?",
+                        "listEn": "Does urine come sooner?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "3",
+                        "listAm": "ሲሸኑ ያቃጥሎታል ?",
+                        "listEn": "Does it burn when you urinate?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "4",
+                        "listAm": "ከሽንቶት ጋር የሚወጣ ፈሳሽ አለ?",
+                        "listEn": "Is there a discharge with urine?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "5",
+                        "listAm": "የሚጠጡት እና የሚሸኑት ተመጣጣኝ ነው?",
+                        "listEn": "Is drinking and urinating affordable?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    }
+                ]
+            },
+            {
+                "sn": 7,
+                "listAm": "ማዕከላዊ የነርቭ ሥርዓት",
+                "listEn": "Central nervous system",
+                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                "lists": [
+                    {
+                        "sn": "1",
+                        "listAm": "የራስ ምታት አሎት ?",
+                        "listEn": "Do you have a headache?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "2",
+                        "listAm": "ሰውነቶት ይታዘዝሎታል?",
+                        "listEn": "Does your body obey?",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": []
+                    },
+                    {
+                        "sn": "3",
+                        "listAm": "የመስታወስ ችሎታ ጥያቄዎች",
+                        "listEn": "Memory questions",
+                        "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                        "lists": [
+                            {
+                                "sn": "1",
+                                "listAm": "ከማን ጋር መጡ ?",
+                                "listEn": "Who did you come with?",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": []
+                            },
+                            {
+                                "sn": "2",
+                                "listAm": "ስንት ሰዓት ነው ?",
+                                "listEn": "what time is it ?",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": []
+                            },
+                            {
+                                "sn": "3",
+                                "listAm": "ይሄ ሰው ማነው ?",
+                                "listEn": "Who is this person?",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": []
+                            },
+                            {
+                                "sn": "4",
+                                "listAm": "የት ኖት?",
+                                "listEn": "Where are you?",
+                                "listImage": "assets/gifs/cardroom/how-are-you.gif",
+                                "lists": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

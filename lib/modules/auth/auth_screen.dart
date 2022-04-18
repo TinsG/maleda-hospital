@@ -1,10 +1,19 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 
-class AuthScreen extends StatelessWidget {
+class AuthScreen extends StatefulWidget {
+  @override
+  State<AuthScreen> createState() => _AuthScreenState();
+}
+
+class _AuthScreenState extends State<AuthScreen> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Text('Auth Screen'),
+    return Scaffold(
+      
+      body: Container(
+        child: Text('Auth Screen'),
+        
+      ),
     );
   }
 }

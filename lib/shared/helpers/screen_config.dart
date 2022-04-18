@@ -7,13 +7,13 @@ class ScreenUtil {
   int height;
   bool allowFontScaling;
 
-  static MediaQueryData _mediaQueryData;
-  static double _screenWidth;
-  static double _screenHeight;
-  static double _pixelRatio;
-  static double _statusBarHeight;
-  static double _bottomBarHeight;
-  static double _textScaleFactor;
+  static late MediaQueryData _mediaQueryData;
+  static late double _screenWidth;
+  static late double _screenHeight;
+  static late double _pixelRatio;
+  static late double _statusBarHeight;
+  static late double _bottomBarHeight;
+  static late double _textScaleFactor;
 
   ScreenUtil({
     this.width = 412,
@@ -66,9 +66,9 @@ class ScreenUtil {
     return screenHeight;
   }
 
-  double setWidth(int width) => width * scaleWidth;
+  double setWidth(int width) => width.toDouble() * scaleWidth;
 
-  double setHeight(int height) => height * scaleHeight;
+  double setHeight(int height) => height.toDouble() * scaleHeight;
 
   double setSp(int fontSize) => allowFontScaling
       ? setWidth(fontSize)
